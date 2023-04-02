@@ -10,5 +10,4 @@ HelloController(app)
 UsersController(app)
 TuitsController(app)
 
-
 app.listen(4000)
