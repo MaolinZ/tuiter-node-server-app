@@ -1,6 +1,6 @@
 export default [
     {
-        "_id": 123,
+        "_id": "123",
         "topic": "Web Development",
         "userName": "ReactJS",
         "title": "React.js is a component based front end library that makes it very easy to build Single Page Applications or SPAs ",
@@ -16,7 +16,7 @@ export default [
         "tuit": "React is a popular JavaScript library used for building user interfaces (UIs) in web applications. Developed by Facebook, React allows developers to create reusable UI components and manage the state of the application in a more efficient and organized manner. React utilizes a virtual DOM (Document Object Model) which allows it to update the UI efficiently without re-rendering the entire page."
     },
     {
-        "_id": 234,
+        "_id": "234",
         "topic": "Space",
         "userName": "SpaceX",
         "time": "2h",
@@ -32,7 +32,7 @@ export default [
         "tuit": "You want to wake up in the morning and think the future is going to be great - and that’s what being a spacefaring civilization is all about. It’s about believing in the future and thinking that the future will be better than the past. And I can’t think of anything more exciting than going out there and being among the stars"
     },
     {
-        "_id": 345,
+        "_id": "345",
         "topic":  "Web Development",
         "userName": "JQuery",
         "title": "jQuery",
